@@ -2,3 +2,4 @@ defer
 struct
 struct-literal
 array
+slice-bound
